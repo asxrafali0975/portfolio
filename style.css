@@ -25,6 +25,19 @@ nav {
 }
 
 
+.text-outline {
+    text-shadow:
+        -1px -1px 1px #fff,
+        1px -1px 1px #fff,
+        -1px 1px 1px #fff,
+        1px 1px 1px #fff,
+        0 0 5px #fff;
+    color: blueviolet;
+
+
+}
+
+
 
 
 
